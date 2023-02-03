@@ -6,10 +6,10 @@ module.exports = {
     jest: true,
   },
   extends: [
-    'eslint:recommended', // Eslint's own recommended rules, minimal set of best practices
-    'plugin:prettier/recommended', // Disable eslint's rules about code style and use prettier styles
-    'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
+    // 'eslint:recommended', // Eslint's own recommended rules, minimal set of best practices
+    // 'plugin:prettier/recommended', // Disable eslint's rules about code style and use prettier styles
+    // 'plugin:react/recommended',
+    // 'plugin:react-hooks/recommended',
     'next',
   ],
   rules: {
