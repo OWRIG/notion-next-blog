@@ -25,10 +25,6 @@
   @apply text-gray-500;
 }
 
-.notion-list {
-  line-height: 1rem;
-}
-
 .notion-h {
   @apply font-title;
   @apply my-7;
