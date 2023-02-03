@@ -14,6 +14,8 @@ module.exports = {
   ],
   rules: {
     'react/prop-types': 0,
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
   },
   settings: {
     react: {
