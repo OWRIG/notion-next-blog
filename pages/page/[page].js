@@ -32,7 +32,7 @@ export async function getStaticProps(context) {
     revalidate: 1,
   };
 }
-
+7
 export async function getStaticPaths() {
   const posts = await getAllPosts({ includePages: false });
   const totalPosts = posts.length;
